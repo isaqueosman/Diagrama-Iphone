@@ -1,4 +1,4 @@
-# Diagrama-Iphone
+# Diagrama-Iphone-Java
 
 ### Modelagem e Diagramação de um Componente iPhone
 
